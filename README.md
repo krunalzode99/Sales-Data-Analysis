@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-## Develope an Interactive Dashboard which contains -
+## Develope an Interactive Dashboard using MS Excel which contains -
 1. Totals sales by months
 2. Sales by category
 3. Sales by city
